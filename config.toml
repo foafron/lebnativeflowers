@@ -1,0 +1,87 @@
+baseURL = "/"
+relativeURLS = true
+languageCode = "en-us"
+title = "Native Plants Seed Library | Lebanon Public Library"
+theme= "timer-hugo"
+
+#Navbar Menus
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "How It Works"
+url = "how-it-works"
+weight = 2
+[[menu.main]]
+name = "Classes"
+url = "classes"
+weight = 3
+
+
+#Site Params
+[params]
+home = "Home"
+logo = "images/logo.svg"
+logo_width = "50px"
+dateFormat = "January 6 2006"
+#Meta data
+description = "Launch site for the Lebanon Public Library Native Seed Library"
+author = "Lebanon Public Libraries"
+
+# contact form action
+
+# Banner Secton
+[params.banner]
+enable = true
+bgImage = "./images/lib_garden.jpg"
+heading = "Our Native Seed Library Just Sprouted"
+description = "More text will go here"
+#button
+btn = false
+btnText = "Learn More"
+btnURL = "/"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Learn"
+[[params.banner.flipText]]
+title = "Borrow"
+[[params.banner.flipText]]
+title   = "Plant"
+[[params.banner.flipText]]
+title   = "Collect"
+[[params.banner.flipText]]
+title   = "Return"
+
+#Homepage About Section
+[params.about]
+enable = true
+title = "Why Natives"
+content = "As the base of the food chain, native plants provide essential habitat for some of the smallest members our our community, our pollinators. We all know that monarch catapillars only eat milkweed, but what many people don't realize is that specialization is not the exception, its the rule. Providing enough food for catapillars means theres enough food for breeding birds and other wildlife."
+image = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "SO WHAT YOU THINK ?"
+content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+btnText = "Contact with me"
+btnURL  = "/contact"
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "https://www.facebook.com/LebanonLibraries/"
+
+[[params.socialIcon]]
+icon = "ion-social-twitter"
+url = "https://twitter.com/leblibraries?lang=en"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "https://www.instagram.com/leblibrary/?hl=en"
+
+[[params.socialIcon]]
+icon = "ion-social-youtube"
+url = "https://www.youtube.com/channel/UCfflZ823YbpDU3kFV-DYMTQ/featured"
