@@ -1,0 +1,15 @@
+{{ if .Site.Params.quote.enable }}
+{{ "<!-- Quote Section Start -->" | safeHTML }}
+<section id="works" class="works">
+	<div class="container">
+		<div class="section-heading">
+			<quote class="quote wow fadeInDown" data-wow-delay=".3s">{{ .Site.Params.quote.thequote }}</quote>
+			<p class="wow fadeInDown" data-wow-delay=".5s">-- {{ .Site.Params.quote.author }}</p>
+		</div>
+		<div class="row">
+
+		</div>
+	</div>
+</section>
+{{ "<!-- Quote Section End -->" | safeHTML }}
+{{ end }}

@@ -1,14 +1,14 @@
-{{ if .Site.Data.feature.enable }}
-{{ "<!-- Feature Section Start -->" | safeHTML }}
+{{ if .Site.Data.rewards.enable }}
+{{ "<!-- Rewards Section Start -->" | safeHTML }}
 <section id="feature">
 	<div class="container">
 		<div class="section-heading">
-			{{ with .Site.Data.feature.title }}<h1 class="title wow fadeInDown" data-wow-delay=".3s">{{ . }}</h1>{{ end }}
-			{{ with .Site.Data.feature.subtitle }}<p class="wow fadeInDown" data-wow-delay=".5s">{{ . | safeHTML }}</p>
+			{{ with .Site.Data.rewards.title }}<h1 class="title wow fadeInDown" data-wow-delay=".3s">{{ . }}</h1>{{ end }}
+			{{ with .Site.Data.rewards.subtitle }}<p class="wow fadeInDown" data-wow-delay=".5s">{{ . | safeHTML }}</p>
 			{{ end }}
 		</div>
 		<div class="row">
-			{{ range $index, $elemrnt := .Site.Data.feature.item }}
+			{{ range $index, $elemrnt := .Site.Data.rewards.item }}
 			<div class="col-sm-6 col-lg-4">
 				{{ $delay := mul (add $index 1) 300 }}
 				<div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
@@ -27,5 +27,5 @@
 		</div>
 	</div>
 </section>
-{{ "<!-- Feature Section End -->" | safeHTML }}
+{{ "<!-- Rewards Section End -->" | safeHTML }}
 {{ end }}

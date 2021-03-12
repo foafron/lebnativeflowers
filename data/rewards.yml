@@ -1,0 +1,34 @@
+enable  : true
+title   : Rewards and Benefits
+subtitle: >
+  Gardening with native plants opens a gateway to many enriching opportunities such as...
+item    :
+  - icon  : ion-ios-home
+    title : Beautify your home
+    description : >
+     Native plants provide a low maintenance way to bring flower-filled gardens to your home.
+
+  - icon  : ion-leaf
+    title : Attract Wildlife
+    description : >
+     Planting native flowers will bring beautiful butterflies, birds, bumblebees and more your yard.
+
+  - icon  : ion-happy
+    title : Health
+    description : >
+      Gardening is fun, but studies show that it also reduces stress, improves mental health, and is great exercise too.
+
+  - icon  : ion-ios-people
+    title : Create community
+    description : >
+      Share your interest in gardening and meet other gardeners through LPL gardening classes.
+
+  - icon  : ion-ios-flask
+    title : Citizen science
+    description : >
+      From the Great Backyard Bird Count to Bumblebee Watch, there are numerous opportunities to explore your garden for science.
+
+  - icon  : ion-ios-heart
+    title : Kids love nature
+    description : >
+      Young minds are hungry to learn about the world around them and spending time with nature at home gets engaged and having fun outdoors.
