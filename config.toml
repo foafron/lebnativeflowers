@@ -57,13 +57,7 @@ title   = "Collect"
 enable = true
 title = "Why Natives"
 content = "As the base of the food chain, native plants provide essential habitat for some of the smallest members our our community, our pollinators. We all know that monarch catapillars only eat milkweed, but what many people don't realize is that specialization is not the exception, its the rule. Providing enough food for catapillars means theres enough food for breeding birds and other wildlife."
-image = "images/about/about.jpg"
-
-# Quote
-[params.quote]
-enable = true
-thequote = '"I have great faith in a seed. Convince me that you have a seed there, and I am prepared to expect wonders."'
-author = "Henry David Thoreau "
+image = "images/why-natives.jpg"
 
 # Call to Action
 [params.cta]
