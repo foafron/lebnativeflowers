@@ -4,11 +4,11 @@ date: "2021-03-09"
 draft: false
 type: classes
 description: "Enter meta description"
-image: //via.placeholder.com//480x480
-category: ["category1","category2"]
+image: images/classes/seed-starting.jpg
+category: ["wildflowers","seeds"]
 livelink: https://leblibrary.com
-client: Instructor name
-submitDate: 2021-03-15
+instructor: TBA
+classDate: "2021-03-15"
 location: Kilton Library Room A
 ---
 ### Consequuntur magni dolores
