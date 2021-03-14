@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				{{ range .Data.Pages.ByDate.Reverse }}
+				{{ range .Data.Pages.ByParam "classDate" }}
 				<article class="wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">
 
 					<div class="blog-post-image">
@@ -19,12 +19,14 @@
 							<a href="{{ .Permalink }}">{{ .Title }}</a>
 						</h2>
 						<div class="blog-meta">
-							<span>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</span>
+							{{ with .Params.classDate }}
+							<span>Next class: {{ dateFormat "Monday, Jan 2, 2006" . }}</span>
+							{{ end }}
 							{{ with .Params.author }}<span>by
 								{{ . }}
 							</span>
 							{{ end }}
-							{{ with .Params.tags }}
+							{{ with .Params.category }}
 							<span>
 								{{ delimit . ", " }}
 							</span>

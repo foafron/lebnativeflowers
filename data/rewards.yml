@@ -1,7 +1,7 @@
 enable  : true
-title   : Rewards and Benefits
+title   : Native Plants Help You
 subtitle: >
-  Gardening with native plants opens a gateway to many enriching opportunities such as...
+  Gardening with native plants opens a gateway to many enriching opportunities.
 item    :
   - icon  : ion-ios-home
     title : Beautify your home
@@ -9,12 +9,12 @@ item    :
      Native plants provide a low maintenance way to bring flower-filled gardens to your home.
 
   - icon  : ion-leaf
-    title : Attract Wildlife
+    title : Attract wildlife
     description : >
      Planting native flowers will bring beautiful butterflies, birds, bumblebees and more your yard.
 
   - icon  : ion-happy
-    title : Health
+    title : Healthy living
     description : >
       Gardening is fun, but studies show that it also reduces stress, improves mental health, and is great exercise too.
 
@@ -31,4 +31,4 @@ item    :
   - icon  : ion-ios-heart
     title : Kids love nature
     description : >
-      Young minds are hungry to learn about the world around them and spending time with nature at home gets engaged and having fun outdoors.
+      Adding native flowers and attracting wildlife to your home landscape is a wonderful way to create outdoor fun, learning opportunities, and connect the kids in your life with nature.

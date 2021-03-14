@@ -8,15 +8,19 @@ image: images/classes/seed-starting.jpg
 category: ["wildflowers","seeds"]
 livelink: https://leblibrary.com
 instructor: TBA
-classDate: "2021-03-15"
+classDate: "2022-01-07"
 location: Kilton Library Room A
 ---
-### Consequuntur magni dolores
+Learn how to cold stratify seeds to increase germination rates, as well as different methods of growing seeds come spring.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est laborum. Sed ut perspiciatis unde omnis iste natus. error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+<!--more-->
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+Eos te choro facilisis, cu duo antiopam dignissim forensibus, in mei assum tibique. At solet perfecto sed, ad sit nusquam recteque reprimique. Ut prima iusto eripuit duo, stet utinam alienum ad nec, ad dolorem mentitum mei. Vero novum est no. Qui offendit definitiones an, sit movet aperiri nostrud te, vim latine invenire ex. Te fastidii intellegam vel, sit ne omittam eligendi.
 
-Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor sit amet consectetur adipisci velit.lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat.
+Per ea mutat dicam constituto, veniam nostrum recteque eu eos. Prima porro everti ad usu. Ei copiosae verterem nominati quo, eu omnes disputando has, no his partem tincidunt interesset. Ex scripta erroribus vix. Sea et mentitum iracundia, purto equidem vocibus cu eos.
 
-Reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus.
+> Ex scripta erroribus vix. Sea et mentitum iracundia, purto equidem vocibus cu eos.
+
+Tale quodsi dolores ea eos, eu mea platonem pericula tractatos. Duo cu integre eruditi elaboraret, eum ad invidunt voluptatum percipitur. Elit docendi ea eos, ad bonorum apeirian his. Sea iusto viderer constituam eu, usu alienum tractatos te, id vidit suavitate patrioque per.
+
+Pro viris minimum suavitate id. Has at dicunt propriae, alia partem ocurreret an eam. Oblique indoctum conceptam id pri. Alii iisque cu pri, nostro dignissim constituto no usu.

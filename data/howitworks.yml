@@ -1,12 +1,12 @@
 enable  : true
 title   : The program
-subtitle: Working with native plants can be deeply rewarding experience, and you'll have the library there to help out when you need it.
+subtitle: Working with native plants can be a deeply rewarding experience, and you'll have the library there to help out when you need it.
 image   : images/howitworks.jpg
 serviceItem :
   - icon  : ion-university
     title : Learn
     description: >
-      Take classes at the library to learn how to start seeds, care for your native plants, and collect your own seeds.
+      You can take classes to learn how to plan a pollinator garden, start seeds, care for your plants, and collect and store seeds for the future.
 
   - icon  : ion-ios-download
     title : Borrow
@@ -16,9 +16,9 @@ serviceItem :
   - icon  : ion-ios-flower
     title : Grow
     description: >
-      After your seeds have sprouted, it's time to plant.  This is a great outdoor activity to do with friends.
+      After your seeds have sprouted, it's time to plant.  This is a great outdoor activity to do with neighbors, friends, and family.
 
   - icon  : ion-ios-upload
     title : Collect
     description: >
-      All of your hard work has paid off.  You've enjoyed  a summer of beautiful flower and now it's time to harvest. Bring back some of your borrowed seeds to the library and we'll lend them out to someone else!
+      All of your hard work has paid off.  You've enjoyed  a summer of beautiful flower and now it's time to collect seeds.  If you'd like, bring back some seeds of the plants you borrowed to the library, and we’ll lend them out to someone else!
