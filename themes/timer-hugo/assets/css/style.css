@@ -221,7 +221,7 @@ a:hover {
 
 .subtitle-des {
   color: #727272;
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 35px;
   font-weight: 300;
 }
@@ -491,7 +491,7 @@ a:hover {
   border-radius: 0;
 }
 
-#call-to-action {
+#coming-soon {
   background: #02bdd5;
   background-size: cover;
   background-attachment: fixed;
@@ -501,25 +501,25 @@ a:hover {
   color: #fff;
 }
 
-#call-to-action .block {
+#coming-soon .block {
   position: relative;
   z-index: 9;
   color: #fff;
 }
 
-#call-to-action .block h2 {
+#coming-soon .block h2 {
   margin-bottom: 15px;
   color: #fff;
 }
 
-#call-to-action .block p {
-  font-size: 15px;
+#coming-soon .block p {
+  font-size: 18px;
   font-weight: 300;
   font-family: 'Roboto', sans-serif;
   margin-top: 20px;
 }
 
-#call-to-action .block .btn-contact {
+#coming-soon .block .btn-contact {
   background: #fff;
   border: 2px solid #fff;
   color: #02bdd5;
@@ -761,7 +761,7 @@ figure figcaption p {
 
 #feature p {
   line-height: 25px;
-  font-size: 14px;
+  font-size: 16px;
   color: #777777;
 }
 
@@ -1358,7 +1358,7 @@ article {
 
 .service-page .service-parts .block p {
   padding: 0 8px;
-  font-size: 14px;
+  font-size: 16px;
   color: #777;
   line-height: 1.7;
 }

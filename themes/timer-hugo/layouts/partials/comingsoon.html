@@ -1,0 +1,20 @@
+{{ if .Site.Data.comingsoon.enable }}
+{{ "<!-- Call To Action Section Start -->" | safeHTML }}
+<section id="coming-soon">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2 class="title wow fadeInDown" data-wow-delay=".3s"
+            data-wow-duration="500ms">{{ .Site.Data.comingsoon.title }}</h2>
+            <p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">
+              {{ .Site.Data.comingsoon.content | safeHTML }}</p>
+            <a href="{{ .Site.Data.comingsoon.btnURL }}" class="btn btn-default btn-contact wow fadeInDown"
+              data-wow-delay=".7s" data-wow-duration="500ms">{{ .Site.Data.comingsoon.btnText }}</a>
+  .      </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- Call To Action Section End -->" | safeHTML }}
+{{ end }}
