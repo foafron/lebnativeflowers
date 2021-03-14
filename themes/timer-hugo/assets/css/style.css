@@ -221,7 +221,7 @@ a:hover {
 
 .subtitle-des {
   color: #727272;
-  font-size: 16px;
+  font-size: 14px;
   margin-bottom: 35px;
   font-weight: 300;
 }
@@ -513,8 +513,8 @@ a:hover {
 }
 
 #coming-soon .block p {
-  font-size: 18px;
-  font-weight: 300;
+  font-size: 16px;
+  font-weight: 400;
   font-family: 'Roboto', sans-serif;
   margin-top: 20px;
 }
@@ -761,7 +761,7 @@ figure figcaption p {
 
 #feature p {
   line-height: 25px;
-  font-size: 16px;
+  font-size: 14px;
   color: #777777;
 }
 
@@ -1358,7 +1358,7 @@ article {
 
 .service-page .service-parts .block p {
   padding: 0 8px;
-  font-size: 16px;
+  font-size: 14px;
   color: #777;
   line-height: 1.7;
 }
