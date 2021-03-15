@@ -1,7 +1,7 @@
 baseURL = "/"
 relativeURLS = true
 languageCode = "en-us"
-title = "Native Plants Seed Library | Lebanon Public Library"
+title = "Native Seed Library | Lebanon Public Library"
 theme= "timer-hugo"
 
 #Navbar Menus
@@ -40,7 +40,7 @@ author = "Lebanon Public Libraries"
 enable = true
 bgImage = "./images/lib_garden.jpg"
 heading = "Our Native Seed Library Just Sprouted"
-description = "We're speading the word. You spread the seeds."
+description = "We're spreading the word <br /> You spread the seeds"
 #button
 btn = false
 btnText = "Learn More"
@@ -60,7 +60,7 @@ title   = "Collect"
 [params.about]
 enable = true
 title = "Why Native Plants"
-content = "As the base of the food chain, native plants provide essential habitat and food for some of the smallest members of our community, our pollinators!  Over the last decades, insects and pollinator and wildlife populations have shown very troubling declines, but the good news is there is something every community and homeowner can do to help reverse these trends: plant lots of native plants!  These important plants provide much needed food for caterpillars, butterflies, moths, bees, etc. which in turn feed the birds, chipmunks, and on and on up the food chain."
+content = "As the base of the food chain, native plants provide essential habitat and food for some of the smallest members of our community, our pollinators!  Insect, pollinator, and wildlife populations have shown very troubling declines over the last decades. However, the good news is there is something every community and homeowner can do to help reverse these trends: plant lots of native plants!  These important plants provide much needed food for caterpillars, butterflies, moths, bees, etc. which in turn feed the birds, chipmunks, and on and on up the food chain."
 image = "images/why-natives.jpg"
 
 # social icon
